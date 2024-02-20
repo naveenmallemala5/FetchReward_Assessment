@@ -13,11 +13,10 @@ Welcome to the Fetch Rewards coding exercise documentation repository. This docu
 5. [Resources Used](#resources-used)
 6. [DDL Code](#ddl-code)
 
-## SQL Dialect Used
+## Note: SQL Dialect Used
 
-**SQL Dialect Used: Standard SQL**
+The SQL queries provided in this project utilize the Standard SQL dialect, following the ANSI SQL (American National Standards Institute SQL) standards. This choice ensures compatibility and interoperability across various relational database management systems (RDBMS) such as MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Oracle, and others.
 
-The SQL queries provided in the documentation adhere to the Standard SQL dialect, which follows the ANSI SQL (American National Standards Institute SQL) standards. This dialect ensures compatibility and interoperability across various relational database management systems (RDBMS) such as MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Oracle, and others.
 
 ## Data Modeling
 
