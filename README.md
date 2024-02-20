@@ -6,12 +6,12 @@ Welcome to the Fetch Rewards coding exercise documentation repository. This docu
 
 ## Table of Contents
 
-1. [Data Modeling](#data-modeling)
-2. [SQL Queries](#sql-queries)
-3. [Data Quality Assessment](#data-quality-assessment)
-4. [Communication with Stakeholders](#communication-with-stakeholders)
-5. [Resources Used](#resources-used)
-6. [DDL Code](#ddl-code)
+1. [Data Modeling](#data-modeling) - See `data_modeling.sql` for SQL scripts related to data modeling.
+2. [SQL Queries](#sql-queries) - Refer to `sql_queries.sql` for SQL queries addressing various business questions.
+3. [Data Quality Assessment](#data-quality-assessment) - Check `data_quality.sql` for SQL queries related to data quality assessment.
+4. [Communication with Stakeholders](#communication-with-stakeholders) - Explore `communication.md` for communication strategies with stakeholders.
+5. [Resources Used](#resources-used) - Find the tools, websites, and platforms used in `resources.md`.
+6. [DDL Code](#ddl-code) - The schema definition is available in `ddl_code.sql`.
 
 ## Note: SQL Dialect Used
 
@@ -21,6 +21,8 @@ The SQL queries provided in this project utilize the Standard SQL dialect, follo
 ## Data Modeling
 
 The data modeling section outlines the structured relational data model derived from the provided unstructured JSON data. It includes entity relationships, diagrams, and descriptions of entities and fields.
+
+
 
 ## SQL Queries
 
